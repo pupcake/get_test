@@ -1,1 +1,5 @@
 # get_test
+My first GitHub repo!
+Hello Odin!
+
+This is great fun!
